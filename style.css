@@ -1,38 +1,39 @@
 body{
-    background-color: #161817;
+    background-color: #f9f3ff;
     text-align: center;
 }
 nav a:link{
-    font-size: 16px;
-    color: #f48b1e;
+    font-size: 18px;
+    color: #22b4c7;
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    background-color: rgb(230, 153, 52);
+    background-color: #54dbec;
 }
 
 h1{
-    color: #f16728;
+    color: #6800ca;
     font-size: 36px;
     text-decoration: overline underline;
 }
 h2{
-    color: #e6854b;
+    color: #3cccdf;
     font-size: 30px;
     text-decoration: underline overline;
 }
 p{
-    color: #ffffff;
-    font-size: 21px;
+    color: #7517ce;
+    font-size: 20px;
 }
 pre{
     color: #cca58f;
 }
 div img{
-    border-radius: 33px;
-    border: solid white 6px;
+    border-radius: 53px;
+    color: #3cccdf;
+    border: solid ;
     border-style: dashed ;
     max-width: max-content ;
     max-height: max-content ;
@@ -43,4 +44,7 @@ div small{
 }
 .video{
     border-radius: 10px;
+}
+.mapa{
+    border-radius: 22px;
 }
